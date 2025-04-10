@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hmbjN0a2Fmamc2YTliYXI2bG55bDU0dXBia2J2bXlhYnR2dWI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pe8h5tgursyAoT2Thq/giphy.gif" 
        alt="Animated GIF" 
-       style="max-width: 500px; height: auto; display: block; margin: 0 auto;">
+       style="max-width: 200px; height: auto; display: block; margin: 0 auto;">
 </h1>
 
 # 💫 About Me:
