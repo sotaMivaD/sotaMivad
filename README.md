@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwbTgzZHdrcGdrbWxlZGRyemRweDRpMnhucWRscTV2M2I0dXJpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZ0J8rGKPTidH0UJul/giphy.gif" 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hmbjN0a2Fmamc2YTliYXI2bG55bDU0dXBia2J2bXlhYnR2dWI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pe8h5tgursyAoT2Thq/giphy.gif" 
        alt="Animated GIF" 
        style="max-width: 1000px; height: auto; display: block; margin: 0 auto;">
 </h1>
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" style="max-width: 150px; height: auto;">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 150px; height: auto;">
 </p>
 
 ### ✍️ Random Dev Quote
