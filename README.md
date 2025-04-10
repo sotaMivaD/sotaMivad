@@ -10,30 +10,19 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://instagram.com/krayz.dev">
+  <a href="https://instagram.com/matosdavi_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 150px; height: auto;">
   </a>
-  <a href="https://codepen.io/KRAYz-Oficial">
-    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen" style="max-width: 150px; height: auto;">
-  </a>
-</p>
-
+  
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" style="max-width: 150px; height: auto;">
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" style="max-width: 150px; height: auto;">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 150px; height: auto;">
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" style="max-width: 150px; height: auto;">
-</p>
-
-# 📊 GitHub Stats:
-<p align="center" >
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KRAYz-Oficial&theme=github_dark&hide_border=false" alt="GitHub Stats" style="max-width: 100%; height: auto;">
 </p>
 
 ### ✍️ Random Dev Quote
