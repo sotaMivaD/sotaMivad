@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hmbjN0a2Fmamc2YTliYXI2bG55bDU0dXBia2J2bXlhYnR2dWI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pe8h5tgursyAoT2Thq/giphy.gif" 
        alt="Animated GIF" 
-       style="max-width: 200px; height: auto; display: block; margin: -2 auto;">
+       style="max-width: 200px; height: auto; display: block; margin: 0 auto;">
 </h1>
 
 # 💫 About Me:
@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://instagram.com/matosdavi_">
+  <a href="https://instagram.com/matosdavi_" target: "_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 150px; height: auto;">
   </a>
   
